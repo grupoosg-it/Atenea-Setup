@@ -47,4 +47,4 @@ Para una solución privada o con control de acceso, se recomienda alojar el JSON
 
 ## 💡 Créditos
 
-Sistema de actualización desarrollado por el departamento de IT de **Atenea**.
+Sistema de actualización desarrollado por el departamento de IT de **OSG - Operber Sitalu Group S. L.**. Para más información, contacta con el autor.
