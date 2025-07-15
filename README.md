@@ -1,5 +1,5 @@
 
-# Actualización automática de Atenea
+# 🔁 Actualización automática de Atenea
 
 Este repositorio gestiona el sistema de actualizaciones automáticas de la aplicación **Atenea**.
 
