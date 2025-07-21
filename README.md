@@ -16,7 +16,7 @@ Al iniciar la aplicación, esta consulta el archivo JSON para comprobar si hay u
 ```json
 {
   "version": "1.0.0",
-  "url": "https://github.com/ByRedyx/OSG-Panel-Setup/releases/download/v1.0.0/OSGPanel_Setup_v1.0.0.msi",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v1.0.0/Atenea_Setup_v1.0.0.msi",
   "descripcion": "La nueva versión 1.0.0 trae..."
 }
 ```
@@ -28,14 +28,14 @@ Al iniciar la aplicación, esta consulta el archivo JSON para comprobar si hay u
 
 Este archivo está disponible públicamente gracias a **GitHub Pages**:
 
-[`https://byredyx.github.io/OSG-Panel-Setup/version.json` ](https://byredyx.github.io/OSG-Panel-Setup/version.json)
+[`https://grupoosg-it.github.io/Atenea-Setup/version.json`](https://grupoosg-it.github.io/Atenea-Setup/version.json)
 
 La aplicación WPF accede a esta URL para consultar automáticamente si hay nuevas versiones disponibles.
 
 
 ## ✅ Repositorio de instalación
 
-Puedes encontrar los instaladores en la sección de [Releases](https://github.com/ByRedyx/OSG-Panel-Setup/releases).
+Puedes encontrar los instaladores en la sección de [Releases](https://github.com/grupoosg-it/Atenea-Setup/releases).
 
 
 ## 🔒 Seguridad
