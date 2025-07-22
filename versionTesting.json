@@ -1,5 +1,5 @@
 {
   "version": "100.100.100",
-  "url": "https://github.com/ByRedyx/OSG-Panel-Setup/releases/download/v2.1.0/OSGPanel_Setup_v2.1.0.msi",
-  "descripcion": "SI SE MUESTRA ESTE CONTENIDO EN EL PROGRAMA, PORFAVOR CONTACTAR CON EL DEPARTAMENTO DE IT. ESTE CONTENIDO ES PARA HACER PRUEBAS Y NO DEBE SER PARTE DE LA VERSIÓN OFICIAL INSTALADA."
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.0.0/Atenea_Setup_v3.0.0.msi",
+  "descripcion": "¡Bienvenidos a Atenea! Hemos renovado OSG Panel con un nuevo nombre, nuevo diseño y servidor propio desde cero.\n\nAhora las alertas se guardan en una base de datos central para poder consultarlas desde cualquier nave.\n\nAdemás, cada trabajador de taller tiene asignado un color distintivo para cuando alguien esté esperando un material concreto."
 }
