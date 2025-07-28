@@ -1,5 +1,5 @@
 {
-  "version": "3.0.0",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.0.0/Atenea_Setup_v3.0.0.msi",
-  "descripcion": "¡Bienvenidos a Atenea! Hemos renovado OSG Panel con un nuevo nombre, nuevo diseño y servidor propio desde cero.\n\nAhora las alertas se guardan en una base de datos central para poder consultarlas desde cualquier nave.\n\nAdemás, cada trabajador de taller tiene asignado un color distintivo para cuando alguien esté esperando un material concreto."
+  "version": "3.0.1",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.0.1/Atenea_Setup_v3.0.1.msi",
+  "descripcion": "Arreglado un pequeño error con la dirección IP del servidor. El servidor perdió su ip estática y se asignó a otro ordenador."
 }
