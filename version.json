@@ -1,5 +1,6 @@
 {
-  "version": "3.0.1",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.0.1/Atenea_Setup_v3.0.1.msi",
-  "descripcion": "Arreglado un pequeño error con la dirección IP del servidor. El servidor perdió su ip estática y se asignó a otro ordenador."
+  "version": "3.1.2",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.1.2/Atenea_Setup_v3.1.2.msi",
+  "descripcion": "¡Ya está disponible el nuevo módulo de Incidencias!\n\nCon él puedes listar todas las incidencias de forma ordenada y numerada, así como crearlas, editarlas y gestionarlas según su estado.\n\nPara más información sobre cada pantalla, consulta el botón en la parte superior derecha.\n\nTambién se ha añadido en el módulo de Materiales Pendientes información sobre proyectos que tengan incidencias abiertas."
 }
+
