@@ -1,5 +1,5 @@
 {
-  "version": "3.1.3",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.1.3/Atenea_Setup_v3.1.3.msi",
-  "descripcion": "Nuevos cambios en el gestor de incidencias:\n\n-Se ha añadido un nuevo CheckBox para marcar si hace falta alguna acción de COMPRAS.\n-Se han ampliado los carácteres en las observaciones hasta 500 carácteres.\n-Se ha añadido la columna 'Longitud' al introducir los artículos.\n-Ahora se adjuntan los archivos en los correos.\n-Se han marcado con un asterisco los campos obligatorios.\n-Se ha eliminado la obligatoriedad de rellenar el campo 'TIPO' en los artículos.\n-El estado 'PENDIENTE DE TRAMITAR' se ha renombrado a 'PENDIENTE DE COMPRAS' para evitar confusiones.\n-Se han añadido mensajes de confirmación para cambiar el estado de la incidencia."
+  "version": "3.1.4",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.1.4/Atenea_Setup_v3.1.4.msi",
+  "descripcion": "Nuevos cambios en el gestor de incidencias:\n\nAl seleccionar un proyecto se muestran todos los artículos si no se selecciona ningún proveedor.\nNuevo proveedor “NUEVOS ARTÍCULOS” para introducir referencias manuales en la tabla de artículos.\nSeleccionar “NUEVOS ARTÍCULOS” activa automáticamente el CheckBox de “¿COMPRAS?”.\nNuevo campo para el identificador de incidencias en Sage.\nNuevo filtro por estado de incidencia (en un futuro, también por ingeniero).\nCorregido error de un archivo al iniciar el ordenador.\nNuevo botón para abrir la carpeta del archivo.\nNuevo botón para refrescar incidencias manualmente.\nBotón de información con diagrama del flujo de estados de incidencias."
 }
