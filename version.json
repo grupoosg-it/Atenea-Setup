@@ -1,5 +1,6 @@
 {
-  "version": "3.1.4",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.1.4/Atenea_Setup_v3.1.4.msi",
-  "descripcion": "Nuevos cambios en el gestor de incidencias:\n\nAl seleccionar un proyecto se muestran todos los artículos si no se selecciona ningún proveedor.\nNuevo proveedor “NUEVOS ARTÍCULOS” para introducir referencias manuales en la tabla de artículos.\nSeleccionar “NUEVOS ARTÍCULOS” activa automáticamente el CheckBox de “¿COMPRAS?”.\nNuevo campo para el identificador de incidencias en Sage.\nNuevo filtro por estado de incidencia (en un futuro, también por ingeniero).\nCorregido error de un archivo al iniciar el ordenador.\nNuevo botón para abrir la carpeta del archivo.\nNuevo botón para refrescar incidencias manualmente.\nBotón de información con diagrama del flujo de estados de incidencias."
+  "version": "3.1.5",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.1.5/Atenea_Setup_v3.1.5.msi",
+  "descripcion": "Cambios en 'Materiales Pendientes':\n- Ahora se muestran TODOS los materiales de los proyectos que aún tienen material por recibir.\n\nCambios en 'Incidencias':\n- El campo OBSERVACIONES ahora es editable hasta que se cierra la incidencia.\n- Se ha añadido un filtro para buscar incidencias creadas/gestionadas por un ingeniero concreto.\n\nOtros cambios:\n- Se han añadido los trabajadores de Elgeta."
 }
+
