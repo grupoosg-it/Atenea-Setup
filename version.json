@@ -1,6 +1,7 @@
 {
-  "version": "3.1.5",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.1.5/Atenea_Setup_v3.1.5.msi",
-  "descripcion": "Cambios en 'Materiales Pendientes':\n- Ahora se muestran TODOS los materiales de los proyectos que aún tienen material por recibir.\n\nCambios en 'Incidencias':\n- El campo OBSERVACIONES ahora es editable hasta que se cierra la incidencia.\n- Se ha añadido un filtro para buscar incidencias creadas/gestionadas por un ingeniero concreto.\n\nOtros cambios:\n- Se han añadido los trabajadores de Elgeta."
+  "version": "3.1.6",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.1.6/Atenea_Setup_v3.1.6.msi",
+  "descripcion": "Se ha cambiado el campo de \"Control de calidad\" de un Slider a un ComboBox. Se ha creado un CRON en el servidor para mandar emails automáticos a las 6AM a los ingenieros que tienen incidencias pendientes."
 }
+
 
