@@ -1,7 +1,5 @@
 {
-  "version": "3.1.6",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.1.6/Atenea_Setup_v3.1.6.msi",
-  "descripcion": "Se ha cambiado el campo de \"Control de calidad\" de un Slider a un ComboBox. Se ha creado un CRON en el servidor para mandar emails automáticos a las 6AM a los ingenieros que tienen incidencias pendientes."
+  "version": "3.2.0",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.2.0/Atenea_Setup_v3.2.0.msi",
+  "descripcion": "Se han separado las alertas del módulo de \"Materiales Pendientes\" y ahora se muestran en el módulo \"Alertas\".\n\nSe ha añadido el budget restante de un proyecto a la hora de crear una incidencia y también se ha restringido el campo de \"Acción de mejora\" para ingenieria y compras."
 }
-
-
