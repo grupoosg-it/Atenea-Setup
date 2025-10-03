@@ -1,5 +1,6 @@
 {
-  "version": "3.2.0",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.2.0/Atenea_Setup_v3.2.0.msi",
-  "descripcion": "Se han separado las alertas del módulo de \"Materiales Pendientes\" y ahora se muestran en el módulo \"Alertas\".\n\nSe ha añadido el budget restante de un proyecto a la hora de crear una incidencia y también se ha restringido el campo de \"Acción de mejora\" para ingenieria y compras."
+  "version": "3.3.0",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.3.0/Atenea_Setup_v3.3.0.msi",
+  "descripcion": "Nuevo módulo disponible: Transporte Interno.\n\nEl módulo permite crear solicitudes y calcular automáticamente el día que se viaja a esa zona.\n\n¡¡No utilizar hasta que se haga la formación!!"
 }
+
