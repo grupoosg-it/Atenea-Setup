@@ -1,6 +1,5 @@
 {
-  "version": "3.3.0",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.3.0/Atenea_Setup_v3.3.0.msi",
-  "descripcion": "Nuevo módulo disponible: Transporte Interno.\n\nEl módulo permite crear solicitudes y calcular automáticamente el día que se viaja a esa zona.\n\n¡¡No utilizar hasta que se haga la formación!!"
+  "version": "3.4.0",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.4.0/Atenea_Setup_v3.4.0.msi",
+  "descripcion": "Nuevo módulo disponible: Planning de Calderería.\n\nSe ha realizado un control de usuarios, a partir de ahora se deberá entrar con usuario-contraseña.\nTodas las contraseñas se almacenan encriptadas en la base de datos en un formato PBKDF2\n\nSe ha eliminado el estado \"TRAMITADA\" en las incidencias. Ahora pasan directamente de \"PENDIENTE DE COMPRAS\" a \"CERRADA\".\n\nEn las incidencias se muestra el budget restante en verde si es positivo y rojo si es negativo.\nEl cálculo que muestra es real (budget actual del proyecto - importe líquido de todos los pedidos de compra), algunos proyectos tienen un budget infinito."
 }
-
