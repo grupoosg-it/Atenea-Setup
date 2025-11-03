@@ -1,5 +1,6 @@
 {
-  "version": "3.4.0",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.4.0/Atenea_Setup_v3.4.0.msi",
-  "descripcion": "Nuevo módulo disponible: Planning de Calderería.\n\nSe ha realizado un control de usuarios, a partir de ahora se deberá entrar con usuario-contraseña.\nTodas las contraseñas se almacenan encriptadas en la base de datos en un formato PBKDF2\n\nSe ha eliminado el estado \"TRAMITADA\" en las incidencias. Ahora pasan directamente de \"PENDIENTE DE COMPRAS\" a \"CERRADA\".\n\nEn las incidencias se muestra el budget restante en verde si es positivo y rojo si es negativo.\nEl cálculo que muestra es real (budget actual del proyecto - importe líquido de todos los pedidos de compra), algunos proyectos tienen un budget infinito."
+  "version": "3.4.1",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.4.1/Atenea_Setup_v3.4.1.msi",
+  "descripcion": "- Ahora al iniciar sesión, si el servidor no funciona, en lugar de mostrar error en la contraseña, avisará de que no está activo el servidor.\n\n- Añadida la posibilidad de cambiar la contraseña (se guardan totalmente encriptadas y no se pueden descifrar).\n\n- Arreglado un error que al visualizar una solicitud de transporte siempre mostraba 07:00 - 15:00 a pesar de ser modificado.\n\n- Se ha añadido el horario en el packing list y reajustado algunos tamaños.\n\n- Añadidos todos los municipios de Catalunya en el módulo de Transporte Interno.\n\n- Varios cambios en el módulo de Calderería (Mover proyectos entre semanas, horas totales de proyectos, marcar proyectos como finalizados, scroll, colores, etc.).\n\n- Los campos budget y fecha límite ahora son obligatorios en las incidencias."
 }
+
