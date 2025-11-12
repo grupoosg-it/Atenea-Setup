@@ -1,6 +1,7 @@
 {
-  "version": "3.4.1",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.4.1/Atenea_Setup_v3.4.1.msi",
-  "descripcion": "- Ahora al iniciar sesión, si el servidor no funciona, en lugar de mostrar error en la contraseña, avisará de que no está activo el servidor.\n\n- Añadida la posibilidad de cambiar la contraseña (se guardan totalmente encriptadas y no se pueden descifrar).\n\n- Arreglado un error que al visualizar una solicitud de transporte siempre mostraba 07:00 - 15:00 a pesar de ser modificado.\n\n- Se ha añadido el horario en el packing list y reajustado algunos tamaños.\n\n- Añadidos todos los municipios de Catalunya en el módulo de Transporte Interno.\n\n- Varios cambios en el módulo de Calderería (Mover proyectos entre semanas, horas totales de proyectos, marcar proyectos como finalizados, scroll, colores, etc.).\n\n- Los campos budget y fecha límite ahora son obligatorios en las incidencias."
+  "version": "3.4.2",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.4.2/Atenea_Setup_v3.4.2.msi",
+  "descripcion": "- Nuevas novedades en el módulo de Transporte: ¡Ahora se puede solicitar también Transporte Externo para Marta!\n- Se han añadido todos los municipios de España y sus códigos postales.\n- Se han arreglado los colores de los materiales que se han recibido del módulo de Caldereria.\n- Se ha cambiado el color de fondo de cada módulo en la página de Inicio."
 }
+
 
