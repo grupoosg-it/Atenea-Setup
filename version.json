@@ -1,7 +1,5 @@
 {
-  "version": "3.4.2",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.4.2/Atenea_Setup_v3.4.2.msi",
-  "descripcion": "- Nuevas novedades en el módulo de Transporte: ¡Ahora se puede solicitar también Transporte Externo para Marta!\n- Se han añadido todos los municipios de España y sus códigos postales.\n- Se han arreglado los colores de los materiales que se han recibido del módulo de Caldereria.\n- Se ha cambiado el color de fondo de cada módulo en la página de Inicio."
+  "version": "3.4.3",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.4.3/Atenea_Setup_v3.4.3.msi",
+  "descripcion": "- Optimizada la carga de la planning de calderería.\n\n- Se han separado por colores los transportes internos de los externos.\n\n- Optimizada la carga de empresas (clientes y proveedores) en el módulo de transporte.\n\n- Se han tachado los días fuera de rango al editar solicitudes de transporte (fines de semana, fechas antes de la creación, fechas posteriores a la fecha límite...).\n\n- Arreglados los siguientes bugs:\n\n1. Al filtrar incidencias de un trabajador no se podía pasar de página.\n2. Al seleccionar un código postal del módulo de transporte sin seleccionar una empresa se cerraba el programa.\n3. En algunos momentos no cargaban los códigos postales del módulo de transporte en las solicitudes personalizadas.\n4. Se mostraban tachados los días de servicio del transporte externo como si fuera interno."
 }
-
-
