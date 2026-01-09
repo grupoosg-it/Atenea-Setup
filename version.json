@@ -1,6 +1,5 @@
 {
-  "version": "3.5.0",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.5.0/Atenea_Setup_v3.5.0.msi",
-  "descripcion": "- Nuevo módulo disponible: ¡RESERVA DE SALAS!🏢\n\nA partir de ahora el método para reservar las salas será desde Atenea en lugar del Excel compartido."
+  "version": "3.6.0",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.6.0/Atenea_Setup_v3.6.0.msi",
+  "descripcion": "- Se han añadido los proveedores de acabados en el módulo de Calderería.\n- Se ha añadido un buscador de artículos en el módulo de Materiales Pendientes.\n- Se han separado las solicitudes de transporte interno de la Anoia (Ahora se muestran en color rosa). También separados en el Packing List.\n- ¡Nuevo módulo: RESERVA DE VEHÍCULOS! A partir de ahora el Excel que se utilizaba dejará de ser utilizado, al igual que con las salas."
 }
-
