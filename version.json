@@ -1,5 +1,5 @@
 {
-  "version": "3.8.0",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.8.0/Atenea_Setup_v3.8.0.msi",
-  "descripcion": "Nuevo módulo disponible: ¡CONSULTAS! - A partir de ahora, todo tipo de información importante referente a OSG se podrá encontrar dentro de Atenea."
+  "version": "3.8.1",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.8.1/Atenea_Setup_v3.8.1.msi",
+  "descripcion": "Ahora AL CREAR una reserva de vehículo se puede poner un rango de días y seleccionar varios turnos.\n\nSe han añadido muchos mas filtros para las incidencias.\n\nSe ha añadido el departamento de BACKOFFICE a la creación de incidencias, siguiendo el mismo recorrido que taller.\n\nSe ha añadido el departamento de ADMINISTRACIÓN a la creación de incidencias, siguiendo el mismo recorrido que almacén.\n\nAñadidas las fotos de los/las trabajadores/as que se han incorporado en las últimas semanas."
 }
