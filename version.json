@@ -1,5 +1,6 @@
 {
-  "version": "3.8.1",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.8.1/Atenea_Setup_v3.8.1.msi",
-  "descripcion": "Ahora AL CREAR una reserva de vehículo se puede poner un rango de días y seleccionar varios turnos.\n\nSe han añadido muchos mas filtros para las incidencias.\n\nSe ha añadido el departamento de BACKOFFICE a la creación de incidencias, siguiendo el mismo recorrido que taller.\n\nSe ha añadido el departamento de ADMINISTRACIÓN a la creación de incidencias, siguiendo el mismo recorrido que almacén.\n\nAñadidas las fotos de los/las trabajadores/as que se han incorporado en las últimas semanas."
+  "version": "3.8.2",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.8.2/Atenea_Setup_v3.8.2.msi",
+  "descripcion": "- Añadido el campo Proveedor al listar las incidencias.\n\n- Las incidencias con proveedor SITALU no pasarán por ingenieria, irán directamente a compras.\n\n- Se ficha la salida automáticamente a las 7:00 de Lunes a Viernes.\n\n- Las horas extras empiezan a sumar cada 15min desde el inicio (excepto el primer cuarto a las 6:45 y 15:00).\n\n- Se ha habilitado el botón de entrada a partir de las 14:46 (empezará a contar horas efectivas desde las 15:00).\n\n- Al fichar entrada o salida de un trabajador, ahora hace falta verificarlo con su pin.\n\n- Se ha arreglado un error que no dejaba fichar la salida si habia otro registro creado más reciente.\n\n- Añadida la posibilidad de marcar proyectos de la planning de caldereria como URGENTE.\n\n- Al dejar el ratón encima de una solicitud de transporte se muestra algo más de información relevante."
 }
+
