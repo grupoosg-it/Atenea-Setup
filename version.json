@@ -1,6 +1,5 @@
 {
-  "version": "3.8.2",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.8.2/Atenea_Setup_v3.8.2.msi",
-  "descripcion": "- Añadido el campo Proveedor al listar las incidencias.\n\n- Las incidencias con proveedor SITALU no pasarán por ingenieria, irán directamente a compras.\n\n- Se ficha la salida automáticamente a las 7:00 de Lunes a Viernes.\n\n- Las horas extras empiezan a sumar cada 15min desde el inicio (excepto el primer cuarto a las 6:45 y 15:00).\n\n- Se ha habilitado el botón de entrada a partir de las 14:46 (empezará a contar horas efectivas desde las 15:00).\n\n- Al fichar entrada o salida de un trabajador, ahora hace falta verificarlo con su pin.\n\n- Se ha arreglado un error que no dejaba fichar la salida si habia otro registro creado más reciente.\n\n- Añadida la posibilidad de marcar proyectos de la planning de caldereria como URGENTE.\n\n- Al dejar el ratón encima de una solicitud de transporte se muestra algo más de información relevante."
+  "version": "3.8.3",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.8.3/Atenea_Setup_v3.8.3.msi",
+  "descripcion": "Horas Extras:\n- Se ha arreglado un error que no mostraba el último registro cerrado de hoy al seleccionar un trabajador.\n- Se ha añadido la descarga de los registros para administración.\n\nIncidencias:\n- Los correos de las incidencias de sitalu se envian a sitalu@grupoosg.com y no se envia en copia a ingenieria.\n\nSolicitudes de Transporte:\n- A partir de las 14:00 ya no se pueden crear reservas para el dia siguiente."
 }
-
