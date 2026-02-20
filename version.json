@@ -1,5 +1,5 @@
 {
-  "version": "3.8.3",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.8.3/Atenea_Setup_v3.8.3.msi",
-  "descripcion": "Horas Extras:\n- Se ha arreglado un error que no mostraba el último registro cerrado de hoy al seleccionar un trabajador.\n- Se ha añadido la descarga de los registros para administración.\n\nIncidencias:\n- Los correos de las incidencias de sitalu se envian a sitalu@grupoosg.com y no se envia en copia a ingenieria.\n\nSolicitudes de Transporte:\n- A partir de las 14:00 ya no se pueden crear reservas para el dia siguiente."
+  "version": "3.9.0",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.9.0/Atenea_Setup_v3.9.0.msi",
+  "descripcion": "¡Disponible la primera fase del módulo de WORKFLOW!"
 }
