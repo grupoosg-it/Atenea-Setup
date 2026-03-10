@@ -1,7 +1,5 @@
 {
   "version": "3.9.2",
   "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.9.2/Atenea_Setup_v3.9.2.msi",
-  "descripcion": "Gestor de Incidencias:\n- Solucionado un error que mostraba artículos con el mismo nº de pedido de otras series.\n\nWorkflow:\n- Añadidos los departamentos de Planificación y OTM al Workflow.\n- Deshabilitado budget eléctrico al no existir apartado eléctrico.\n- Añadida la posibilidad de marcar 0€ de budget de portes.\n- Añadido el nombre del color de la carpeta.\n- Añadida la división en el listado de proyectos.\n- Añadido la pestaña Ingenieria."
+  "descripcion": "Workflow:\n\nArreglado un error urgente que no permitía crear nuevos proyectos ni enviarlos a administración."
 }
-
-
