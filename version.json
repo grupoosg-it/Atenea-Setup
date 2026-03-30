@@ -1,5 +1,5 @@
 {
-  "version": "3.9.3",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.9.3/Atenea_Setup_v3.9.3.msi",
-  "descripcion": "Gestor de Transporte:\n- A partir de las 13:30, las solicitudes que se quieran entrar estarán bloqueadas para el día siguiente.\n\nWorkflow:\n- Aumentado a 10 caracteres el campo del código del proyecto.\n- Añadido un botón de información donde poder consultar cuando ha entrado cada departamento.\n- Añadida la posibilidad de descargar la página principal del DF.\n- Automatizados los correos a OTE y SAT cuándo tienen apartado eléctrico o MEF."
+  "version": "3.10.0",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.10.0/Atenea_Setup_v3.10.0.msi",
+  "descripcion": "Nuevo módulo disponible: ¡KPIs!"
 }
