@@ -1,5 +1,5 @@
 {
-  "version": "3.10.1",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.10.1/Atenea_Setup_v3.10.1.msi",
-  "descripcion": "Nuevo módulo disponible: ¡KPIs! - Arreglado un BUG"
+  "version": "3.10.2",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.10.2/Atenea_Setup_v3.10.2.msi",
+  "descripcion": "Workflow:\n\nAñadidos los checks de \"¿CARPETA DEL PROYECTO CREADA?\" y \"¿CARPETA IMPRIMIDA?\".\nHabilitado el botón de descargar la página de información a partir de ingeniería (ahora solo se podia al estar pendiente de ingenieria).\nAñadida a Silvia para recibir los mails cuando envia el proyecto ingenieria.\nLas flash ya no pasan por ingenieria y se pueden enviar de planificación a compras.\nAñadido un desplegable con la documentación técnica en el apartado de información.\nAñadidos nuevos campos de comentarios en la información del proyecto.\nAl guardar cambios en el apartado de ingeniería, se notifica por mail a planificación.\nModificado el campo de project manager a product manager.\nAñadido el nombre del proyecto al listado de proyectos.\nAñadido un campo en ingeniería que indica a compras si se avanza material.\nEliminada la restricción que obligaba a que no se repitan los códigos de proyecto para poder introducir diferentes fases.\nAñadido el departamento de compras al recorrido.\nAñadido el departamento de taller al recorrido."
 }
