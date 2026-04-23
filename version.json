@@ -1,5 +1,5 @@
 {
-  "version": "3.10.2",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.10.2/Atenea_Setup_v3.10.2.msi",
-  "descripcion": "Workflow:\n\n- Añadidos los checks de \"¿CARPETA DEL PROYECTO CREADA?\" y \"¿CARPETA IMPRIMIDA?\".\n- Habilitado el botón de descargar la página de información a partir de ingeniería (ahora solo se podia al estar pendiente de ingenieria).\n- Añadida a Silvia para recibir los mails cuando envia el proyecto ingenieria.\n- Las flash ya no pasan por ingenieria y se pueden enviar de planificación a compras.\n- Añadido un desplegable con la documentación técnica en el apartado de información.\n- Añadidos nuevos campos de comentarios en la información del proyecto.\n- Al guardar cambios en el apartado de ingeniería, se notifica por mail a planificación.\n- Modificado el campo de project manager a product manager.\n- Añadido el nombre del proyecto al listado de proyectos.\n- Añadido un campo en ingeniería que indica a compras si se avanza material.\n- Eliminada la restricción que obligaba a que no se repitan los códigos de proyecto para poder introducir diferentes fases.\n- Añadido el departamento de compras al recorrido.\n- Añadido el departamento de taller al recorrido."
+  "version": "3.10.3",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.10.3/Atenea_Setup_v3.10.3.msi",
+  "descripcion": "KPIs:\n- Añadidos los objetivos anuales\n- Añadidos colores semana por semana según los objetivos cumplidos\n- Reducido el tamaño de las tablas\n- Añadida la tabla del total"
 }
