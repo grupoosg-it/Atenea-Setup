@@ -1,5 +1,5 @@
 {
-  "version": "3.10.5",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.10.5/Atenea_Setup_v3.10.5.msi",
-  "descripcion": "KPIs:\n\n- Añadido el detalle de las semanas al hacer click en una celda\n- Añadido un gráfico con la comparación de años anteriores al hacer click en una celda"
+  "version": "3.10.6",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.10.6/Atenea_Setup_v3.10.6.msi",
+  "descripcion": "KPIs:\n- Desbloqueado el total para poder visualizar el detalle y gráfico\n- Ahora cuando se selecciona una celda sin datos se oculta el detalle y gráfico\n\nHoras:\n- Añadida la opción para registrar los 15min del descanso"
 }
