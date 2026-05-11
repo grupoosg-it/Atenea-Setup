@@ -1,5 +1,5 @@
 {
-  "version": "3.10.6",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.10.6/Atenea_Setup_v3.10.6.msi",
-  "descripcion": "KPIs:\n- Desbloqueado el total para poder visualizar el detalle y gráfico\n- Ahora cuando se selecciona una celda sin datos se oculta el detalle y gráfico\n\nHoras:\n- Añadida la opción para registrar los 15min del descanso"
+  "version": "3.10.7",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.10.7/Atenea_Setup_v3.10.7.msi",
+  "descripcion": "Workflow:\n- Añadida la opción para modificar información: Se ha creado un desplegable para retroceder el proyecto, de forma que los departamentos siguientes se enteren de los cambios.\n- Las flash ya no van a compras, van directamente de planificación a producción.\n\nHoras Extras:\n- Se ha añadido un filtro del descanso para la gestión de registros."
 }
