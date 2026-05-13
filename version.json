@@ -1,5 +1,5 @@
 {
-  "version": "3.10.7",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.10.7/Atenea_Setup_v3.10.7.msi",
-  "descripcion": "Workflow:\n- Añadida la opción para modificar información: Se ha creado un desplegable para retroceder el proyecto, de forma que los departamentos siguientes se enteren de los cambios.\n- Las flash ya no van a compras, van directamente de planificación a producción.\n\nHoras Extras:\n- Se ha añadido un filtro del descanso para la gestión de registros."
+  "version": "3.10.8",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.10.8/Atenea_Setup_v3.10.8.msi",
+  "descripcion": "Workflow:\n- El campo del product manager se selecciona automáticamente al seleccionar la división.\n- Arreglado un error que modificaba los campos de la dirección y ponia los del sage aún que se cambiara manualmente.\n- Añadida la pestaña de avance de material desde backoffice.\n- Arreglados muchos errores que estaban habiendo con el envio de mails.\n- Arreglados muchos errores con la validación de los campos que hacia que se cerrara la aplicación.\n\nHoras:\n- Se ha limitado el rango para fichar el descanso entre las 8:00 y las 14:30 para evitar fichajes erróneos."
 }
