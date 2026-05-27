@@ -1,5 +1,5 @@
 {
-  "version": "3.10.9",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.10.9/Atenea_Setup_v3.10.9.msi",
-  "descripcion": "Workflow:\n- Arreglado un error que no enviaba el mail de la modificación\n- Añadido un cron que avisa diariamente al ingeniero cuando compras tiene un proyecto con material por definir\n- Añadidas las unidades de conjunto al DF\n- Ahora se pueden imprimir los DF directamente\n\nHoras:\n- Ahora se pueden imprimir los registros directamente"
+  "version": "3.11.0",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.11.0/Atenea_Setup_v3.11.0.msi",
+  "descripcion": "Inicio de Sesión:\n- Se han añadido mensajes al iniciar sesión.\n\nAlertas:\n- Arreglado un error que cerraba Atenea en el almacén.\n\nPlanning de SAT:\n- ¡Nuevo módulo disponible!"
 }
