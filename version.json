@@ -1,5 +1,5 @@
 {
-  "version": "3.11.0",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.11.0/Atenea_Setup_v3.11.0.msi",
-  "descripcion": "Inicio de Sesión:\n- Se han añadido mensajes al iniciar sesión.\n\nAlertas:\n- Arreglado un error que cerraba Atenea en el almacén.\n\nPlanning de SAT:\n- ¡Nuevo módulo disponible!"
+  "version": "3.11.1",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.11.1/Atenea_Setup_v3.11.1.msi",
+  "descripcion": "Incidencias:\n- Añadida Salomé como Ingeniera\n\nWorkflow:\n- Añadida Salomé como Ingeniera\n- Añadidos los campos 'Coste estimado' y 'Revisado por'\n- Cambiado el valor por defecto de 'Materiales para definir' a NO en Compras.\n\nConsultas:\n- Arreglado el error que no permetia abrir el módulo\n\nPlanning de SAT:\n- Arreglado error de decimales\n- Añadidos los destinatarios en copia de los mails automáticos"
 }
