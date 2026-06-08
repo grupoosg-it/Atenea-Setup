@@ -1,5 +1,5 @@
 {
-  "version": "3.11.2",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.11.2/Atenea_Setup_v3.11.2.msi",
-  "descripcion": "Planificación de SAT:\n- Arreglados los permisos para arrastrar proyectos.\n- Añadida Salomé como ingeniera al listado.\n\nPlanificación de Caldereria:\n- Arreglados los permisos para arrastrar proyectos.\n\nIncidencias:\n- Modificado el recorrido del departamento INGENIERIA & COMERCIAL para que sea el mismo que INGENIERIA.\n\nWorkflow:\n- Añadidos los comentarios de backoffice & ingenieria al enviar el correo a compras sobre el AVANCE DE MATERIAL.\n- Añadidos los comentarios al enviar el correo a ingenieria de que faltan MATERIALES POR DEFINIR.\n- Cambiado el funcionamiento de los mails.\n- Cambiado el campo de ingenieria de coste estimado a budget considerado."
+  "version": "3.11.3",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.11.3/Atenea_Setup_v3.11.3.msi",
+  "descripcion": "Workflow:\n- Añadida la pestaña de 'Validación'.\n- Añadido los campos 'Precio de venta eléctrico', 'Tiempo de esquema eléctrico', 'Tiempo de cableado eléctrico' en la pestaña de información.\n- Modificado el campo de 'Budget considerado' para que sea obligatorio antes de empezar la parte de OTM.\n- Modificado de nuevo los envios de mails.\n\nHoras:\n- Arreglado un error que no permitia fichar por la tarde a las personas que no tenían un departamento asignado.\n- Agrupadas todas las horas de descanso al imprimir.\n\nMensajes:\n- Cambiada la ubicación de los mensajes que salían al acceder a Atenea.\n\nPlanning de Calderería:\n- Añadidas las PV.\n\nPlanning de SAT:\n- Arreglado un error que no dejaba asignar proyectos a los trabajadores."
 }
