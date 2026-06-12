@@ -1,5 +1,5 @@
 {
-  "version": "3.11.4",
+  "version": "3.11.3",
   "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.11.4/Atenea_Setup_v3.11.4.msi",
   "descripcion": "Planning de SAT:\n- Arreglado el doble click a los proyectos sin asignar que te mandaba a la pestaña de crear una nueva.\n- Añadidos los proyectos que no tenían ningún pedido asociado.\n\nKPIs:\n- Añadida la cartera de pedidos en la pestaña de TOTAL."
 }
