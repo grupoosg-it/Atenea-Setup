@@ -1,5 +1,5 @@
 {
-  "version": "3.12.0",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.12.0/Atenea_Setup_v3.12.0.msi",
-  "descripcion": "Planning Eléctrica:\n- ¡Nuevo módulo disponible!\n\nWorkflow:\n- Arreglado el error de los checks no conforme de almacén que salia al PM al enviar a almacén.\n- Ahora backoffice introduce el código de proyecto en lugar de administración."
+  "version": "3.13.0",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.13.0/Atenea_Setup_v3.13.0.msi",
+  "descripcion": "Planning eléctrica:\n- Añadidos los proyectos que faltaban a la lista.\n\nAtenea:\n- Todos los mails que enviaba la aplicación se han pasado al servidor para que sea el servidor el que los envia.\n- Todas la información del Sage que recuperaba la aplicación se ha pasado al servidor para que sea el servidor el que lo recupera.\n- Se han hecho bastantes tareas para evitar posibles brechas de seguridad en Atenea.\n\nEs posible que esta versión tenga fallos, ya que se han modificado miles de lineas código de golpe y pueden haber problemas de compatibilidad. Por favor, cualquier error que se encuentre, reportadlo. ¡Muchas gracias por vuestra ayuda!"
 }
