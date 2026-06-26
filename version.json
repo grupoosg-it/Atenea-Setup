@@ -1,5 +1,5 @@
 {
-  "version": "3.13.0",
-  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.13.0/Atenea_Setup_v3.13.0.msi",
-  "descripcion": "Planning eléctrica:\n- Añadidos los proyectos que faltaban a la lista.\n\nAtenea:\n- Todos los mails que enviaba la aplicación se han pasado al servidor para que sea el servidor el que los envia.\n- Todas la información del Sage que recuperaba la aplicación se ha pasado al servidor para que sea el servidor el que lo recupera.\n- Se han hecho bastantes tareas para evitar posibles brechas de seguridad en Atenea.\n\nEs posible que esta versión tenga fallos, ya que se han modificado miles de lineas código de golpe y pueden haber problemas de compatibilidad. Por favor, cualquier error que se encuentre, reportadlo. ¡Muchas gracias por vuestra ayuda!"
+  "version": "3.13.1",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.13.1/Atenea_Setup_v3.13.1.msi",
+  "descripcion": "Trabajadores:\n- Se han desactivado los usuarios de trabajadores que ya no están en OSG.\n- Se han ocultado de la mayoria de listas a los trabajadores que ya no están en OSG (excepto filtros, registros...).\n\nPlanning de Caldereria:\n- Se ha implementado el sistema de trabajadores de la planning de SAT y la planning eléctrica.\n\nKPIs:\n- Arreglados unos números que descuadraban de la cartera de pedidos.\n\nWorkflow:\n- Añadido todo un sistema de filtros basado en el de incidencias.\n- Añadido el diario de a bordo para poder añadir mensajes para otros apartados del proyecto.\n\nIncidencias:\n- Añadidos Med y Adri en el selector de ingenieros para poder enviarles incidencias."
 }
